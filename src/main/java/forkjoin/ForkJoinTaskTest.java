@@ -2,13 +2,6 @@ package forkjoin;
 
 import java.util.concurrent.RecursiveTask;
 
-/***
- * ClassName: ForkJoinTAsk
- * Description: 
- * author weimian
- * email eyek@163.com 
- * date 2018/3/25.
- */
 public class ForkJoinTaskTest extends RecursiveTask<Integer> {
 
     // 每个"小任务"最多只打印50个数

@@ -7,13 +7,6 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ForkJoinPool;
 import java.util.concurrent.Future;
 
-/***
- * ClassName: Test
- * Description: 
- * author weimian
- * email eyek@163.com 
- * date 2018/3/25.
- */
 public class Test {
     @org.junit.Test
     public void forkJoinTest() throws ExecutionException, InterruptedException {
