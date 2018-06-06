@@ -1,4 +1,4 @@
-package forkjoin;
+package basic.forkjoin;
 
 import java.util.concurrent.RecursiveTask;
 

@@ -1,4 +1,4 @@
-package string;
+package basic.string;
 
 /*
  * author August

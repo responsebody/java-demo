@@ -1,4 +1,4 @@
-package jdkproxy;
+package basic.jdkproxy;
 
 /*
  * author yongkai.sun
