@@ -18,6 +18,26 @@ public class User {
     public User() {
     }
 
+    public void setCode(String code) {
+        this.code = code;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setSex(Integer sex) {
+        this.sex = sex;
+    }
+
+    public void setAge(Integer age) {
+        this.age = age;
+    }
+
+    public void setCity(String city) {
+        this.city = city;
+    }
+
     public User(String code, String name, Integer sex, Integer age, String city) {
         this.code = code;
         this.name = name;
